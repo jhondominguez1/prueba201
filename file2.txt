@@ -1,0 +1,15 @@
+ El volumen de la unidad E es Particion_2
+ El n£mero de serie del volumen es: A0B9-467D
+
+ Directorio de E:\prueba201
+
+28/05/2016  08:03 p. m.    <DIR>          .
+28/05/2016  08:03 p. m.    <DIR>          ..
+28/05/2016  07:57 p. m.               145 adicionadodesdelanube.html
+28/05/2016  08:03 p. m.               608 file1.txt
+28/05/2016  08:03 p. m.                 0 file2.txt
+28/05/2016  03:05 p. m.                 0 formulario.php
+28/05/2016  03:05 p. m.               367 index.php
+28/05/2016  05:04 p. m.               485 luisaurelio.html
+               6 archivos          1.605 bytes
+               2 dirs   3.377.373.184 bytes libres
